@@ -1,0 +1,25 @@
+ul {
+    list-style: none;
+    width: 75vw;
+
+    display: inline-flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    height: 30vh;
+    align-items:stretch;
+    flex:1 1 0;
+    
+}
+
+li {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(245, 173, 41);
+    
+
+    /* add solution here.. */
+    text-align:center;
+    
+    
+
+}
